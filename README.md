@@ -1,5 +1,2 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+# Meet RhythmSync
+RhythmSync is the all new music player that syncs with your heartbeat. Intense workouts are paired with intense music while chill workouts are paired with relaxing workouts. It's time to make music move **with** you!
